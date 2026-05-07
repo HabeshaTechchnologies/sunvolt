@@ -1,0 +1,239 @@
+{
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À propos de Sunvolt",
+    "services": "Solutions",
+    "contact": "Contactez-nous"
+  },
+  "Hero": {
+    "preTitle": "Bienvenue chez Sunvolt Djibouti",
+    "title": "Systèmes avancés de batteries lithium et de stockage d’énergie",
+    "description": "Nous fournissons des systèmes de batteries LiFePO4, des solutions de stockage d’énergie (ESS/BESS) et des systèmes d’alimentation intégrés pour les applications résidentielles, commerciales et industrielles.",
+    "learnMore": "Découvrir les solutions",
+    "callUs": "Contacter notre équipe",
+    "marquee": "Batteries LiFePO4 • Stockage d’énergie • Solutions BESS"
+  },
+  "About": {
+    "preTitle": "À propos de Sunvolt",
+    "circleText": "Sunvolt Djibouti • Experts en stockage d’énergie •",
+    "title": "Un stockage d’énergie fiable pour les besoins modernes",
+    "description": "Sunvolt Djibouti propose des solutions avancées de batteries lithium fer phosphate (LiFePO4) et de stockage d’énergie pour les systèmes solaires, l’alimentation de secours et les applications industrielles. Nos solutions sont conçues pour une longue durée de vie, une haute sécurité et des performances optimales.",
+    "employees": "Experts techniques",
+    "saveWorld": "Énergie durable",
+    "ceoTitle": "DIRECTION SUNVOLT",
+    "learnMore": "En savoir plus"
+  },
+  "CompanyAbout": {
+    "preTitle": "Notre entreprise",
+    "title": "Stockage d’énergie efficace <br />pour chaque application",
+    "tab1": "Pourquoi nous choisir",
+    "tab2": "Notre mission",
+    "tab3": "Notre vision",
+    "desc1": "Nous proposons des systèmes de batteries lithium et de stockage d’énergie haute performance basés sur la technologie avancée LiFePO4, garantissant sécurité, durabilité et fiabilité à long terme.",
+    "desc2": "Notre mission est de fournir des solutions de stockage d’énergie évolutives et efficaces pour les systèmes solaires, l’alimentation de secours et les infrastructures énergétiques industrielles.",
+    "desc3": "Notre vision est de devenir un leader dans l’adoption des systèmes avancés de stockage d’énergie en Afrique, en offrant des solutions fiables, efficaces et durables.",
+    "check1": "Technologie LiFePO4 à longue durée de vie",
+    "check2": "Systèmes avancés de sécurité et de protection",
+    "check3": "Solutions ESS & BESS évolutives",
+    "check4": "Performance fiable et support technique"
+  },
+  "WhyChoose": {
+    "preTitle": "Pourquoi choisir Sunvolt",
+    "title": "Conçu pour la performance et la fiabilité",
+    "desc": "Nos systèmes énergétiques sont conçus avec des technologies avancées pour offrir des solutions sûres, efficaces et évolutives.",
+    "ecoFriendly": "Énergie propre",
+    "ecoFriendlyDesc1": "Compatible avec les systèmes solaires et réduit l’impact environnemental.",
+    "ecoFriendlyDesc2": "Technologie lithium écologique avec longue durée de vie.",
+    "innovation": "Technologie moderne",
+    "innovationDesc": "Basé sur les dernières innovations en LiFePO4 et stockage d’énergie.",
+    "quality": "Haute fiabilité",
+    "qualityDesc": "Longue durée de vie, haute efficacité et performance stable.",
+    "readMore": "Lire plus"
+  },
+  "Facts": {
+    "preTitle": "Nos capacités",
+    "title": "Solutions avancées de batteries et de stockage d’énergie",
+    "desc": "Du résidentiel aux grandes installations industrielles, nous fournissons des solutions énergétiques fiables.",
+    "solar": "Stockage d’énergie solaire",
+    "ev": "Stockage d’énergie par batterie (ESS/BESS)",
+    "water": "Systèmes industriels et alimentation de secours"
+  },
+  "Service": {
+    "preTitle": "Nos solutions",
+    "title": "Systèmes énergétiques Sunvolt",
+    "desc": "Nous fournissons des technologies de batteries lithium et des systèmes de stockage d’énergie conçus pour la performance et la fiabilité.",
+    "tabSolar": "Systèmes de stockage d’énergie",
+    "tabEV": "Systèmes de batteries lithium",
+    "tabWater": "BESS commercial & industriel",
+    "tabTire": "Systèmes d’alimentation intégrés",
+    "solarTitle": "Systèmes de stockage d’énergie (ESS)",
+    "solarDesc1": "Nos systèmes de stockage d’énergie assurent une alimentation stable et efficace pour les applications résidentielles et commerciales.",
+    "solarDesc2": "Conçus pour l’intégration solaire, l’alimentation de secours et les systèmes hors réseau.",
+    "solarFeature1": "Stockage d’énergie résidentiel",
+    "solarFeature2": "Stockage d’énergie commercial",
+    "solarFeature3": "Systèmes de secours & UPS",
+    "solarFeature4": "Solutions solaires hors réseau",
+    "evTitle": "Systèmes de batteries lithium",
+    "evDesc1": "Nous proposons des batteries LiFePO4 avec haute densité énergétique, longue durée de vie et systèmes de protection avancés.",
+    "evDesc2": "Utilisées pour les systèmes solaires, télécoms, centres de données et applications industrielles.",
+    "evFeature1": "Batteries murales",
+    "evFeature2": "Batteries en rack",
+    "evFeature3": "Systèmes empilables",
+    "evFeature4": "Systèmes haute tension",
+    "waterTitle": "BESS commercial & industriel",
+    "waterLeftTitle1": "Solutions",
+    "waterLeftTitle2": "de stockage",
+    "waterLeftTitle3": "évolutives",
+    "waterDesc1": "Nous fournissons des systèmes de stockage d’énergie à grande échelle, incluant des solutions en conteneur et en armoire.",
+    "waterDesc2": "Nos solutions BESS prennent en charge les systèmes réseau, solaire et hybrides avec haute capacité.",
+    "waterFeature1": "BESS en conteneur (échelle MWh)",
+    "waterFeature2": "Systèmes ESS en armoire",
+    "waterFeature3": "Systèmes hybrides réseau & solaire",
+    "waterFeature4": "Alimentation de secours industrielle",
+    "tireTitle": "Systèmes d’alimentation intégrés",
+    "tireDesc1": "Systèmes tout-en-un combinant batteries, onduleurs et gestion intelligente de l’énergie.",
+    "tireDesc2": "Conçus pour une installation facile et une performance évolutive.",
+    "tireFeature1": "Intégration batterie + onduleur",
+    "tireFeature2": "Surveillance intelligente",
+    "tireFeature3": "Conversion haute efficacité",
+    "tireFeature4": "Architecture modulaire",
+    "moreService": "Plus de solutions"
+  },
+  "Gallery": {
+    "preTitle": "Nos produits",
+    "title": "Découvrez nos batteries lithium et systèmes de stockage d’énergie"
+  },
+  "Feedback": {
+    "preTitle1": "Sunvolt",
+    "preTitle2": " Djibouti",
+    "title": "Avis des clients",
+    "feedback1": "« Sunvolt a fourni un système de stockage fiable garantissant une alimentation continue. »",
+    "feedback2": "« Leurs solutions ont amélioré notre efficacité et réduit les interruptions. »",
+    "feedback3": "« Batteries de haute qualité et excellent support technique. »",
+    "name1": "Ingénieur projet",
+    "role1": "Client industriel",
+    "name2": "Responsable opérations",
+    "role2": "Client commercial"
+  },
+  "CTA": {
+    "preTitle1": "Commencez",
+    "preTitle2": "avec Sunvolt",
+    "title": "Améliorez votre système énergétique avec des solutions avancées",
+    "placeholderName": "Votre nom",
+    "placeholderEmail": "Votre email",
+    "placeholderPhone": "Votre téléphone",
+    "placeholderMessage": "Décrivez votre projet",
+    "sending": "Envoi...",
+    "submit": "Demander un devis",
+    "success": "Message envoyé avec succès 😊",
+    "error": "Une erreur s’est produite, veuillez réessayer 😔"
+  },
+  "Blog": {
+    "preTitle": "Notre blog",
+    "title": "Actualités & technologies",
+    "readMore": "Lire plus",
+    "minRead": "7 min de lecture"
+  },
+  "Footer": {
+    "desc": "Sunvolt Djibouti est spécialisé dans les batteries lithium et les solutions de stockage d’énergie fiables et durables.",
+    "usefulLinks": "Liens rapides",
+    "home": "Accueil",
+    "aboutUs": "À propos",
+    "ourServices": "Solutions",
+    "blog": "Actualités",
+    "contactUs": "Contact",
+    "callUs": "Appelez-nous",
+    "emailUs": "Envoyez un email",
+    "addressTitle": "Bureau Djibouti",
+    "addressSub": "Djibouti",
+    "poBox": "Boîte postale",
+    "ethiopia": "Djibouti",
+    "copyright": "Copyright © {year} Sunvolt Djibouti. Tous droits réservés.",
+    "developedBy": "Développé par"
+  },
+  "Breadcrumb": {
+    "home": "ACCUEIL",
+    "aboutUs": "À PROPOS",
+    "blogs": "BLOGS",
+    "contactUs": "CONTACTEZ-NOUS",
+    "services": "SERVICES"
+  },
+  "EasySteps": {
+    "preTitle1": "Sunvolt",
+    "preTitle2": "Systems",
+    "title": "Étapes rapides et faciles",
+    "step1Title": "Devenez partenaire",
+    "step1Desc": "Rejoignez une équipe axée sur la croissance durable et un excellent service.",
+    "step2Title": "Avenir de l'Afrique",
+    "step2Desc": "Aidez-nous à réduire la dépendance de l'Afrique aux énergies fossiles.",
+    "step3Title": "Innovez avec nous",
+    "step3Desc": "Participez à l'innovation des véhicules électriques et bornes de recharge.",
+    "step4Title": "Société visionnaire",
+    "step4Desc": "Contribuez à notre expansion sur le marché."
+  },
+  "AboutContact": {
+    "callTitle": "Appelez-nous pour le service",
+    "callDesc": "Appelez 24h/24 pour tout problème",
+    "mailTitle": "Écrivez-nous à tout moment",
+    "mailDesc": "Écrivez 24h/24 pour tout problème"
+  },
+  "BlogList": {
+    "readDetails": "Lire les détails"
+  },
+  "SingleBlog": {
+    "blogNotFound": "Article non trouvé",
+    "recentPosts": "Articles récents",
+    "by": "par"
+  },
+  "ContactInfo": {
+    "getEmail": "Envoyez un email",
+    "makeCall": "Appelez-nous",
+    "visitUs": "Rendez-nous visite",
+    "address": "GERJI, BÂTIMENT SELAM, 5ème et 6ème ÉTAGE"
+  },
+  "ContactForm": {
+    "preTitle1": "N'hésitez pas",
+    "preTitle2": "À nous contacter",
+    "title": "Prenons contact",
+    "placeholderName": "Votre nom",
+    "placeholderEmail": "Adresse email",
+    "placeholderPhone": "Numéro de téléphone",
+    "placeholderMessage": "Tapez votre message",
+    "sending": "Envoi en cours...",
+    "submit": "Envoyer le message",
+    "success": "Email envoyé avec succès 😊",
+    "error": "Un problème est survenu, veuillez réessayer 😔"
+  },
+  "ServiceCard": {
+    "evTitle": "Assemblage de véhicules électriques",
+    "evDesc": "Découvrez notre assemblage de véhicules électriques, bus et scooters pour aider à réduire la dépendance aux combustibles fossiles.",
+    "waterTitle": "Systèmes d'eau propre",
+    "waterDesc": "Découvrez nos systèmes innovants de purification de l'eau qui fournissent de l'eau potable abordable et pure pour les ménages.",
+    "renewableTitle": "Solutions d'énergie renouvelable",
+    "renewableDesc": "Découvrez comment nous fournissons de l'énergie durable grâce à des centrales solaires, éoliennes et géothermiques."
+  },
+  "ClientReview": {
+    "preTitle1": "Nos",
+    "preTitle2": "avis clients",
+    "title": "Produisez votre propre énergie propre <br />Sauvez l'environnement",
+    "card1Title": "Notre concept d'entreprise",
+    "card1Desc": "Découvrez notre engagement à fournir des produits et services innovants, de haute qualité et socialement responsables.",
+    "card2Title": "Expansion future",
+    "card2Desc": "Découvrez nos plans d'expansion dans de nouveaux marchés en Éthiopie, à Djibouti, en Ouganda et dans d'autres pays africains.",
+    "card3Title": "Nos valeurs fondamentales",
+    "card3Desc": "Découvrez nos valeurs fondamentales d'innovation, de responsabilité sociale, de qualité et d'excellence.",
+    "card4Title": "Passez au vert, sauvez la Terre",
+    "card4Desc": "Nous sommes engagés dans la protection de l'environnement en réduisant les déchets et en fournissant des produits et solutions écologiques."
+  },
+  "CustomersSays": {
+    "preTitle1": "Sunvolt",
+    "preTitle2": "Solutions",
+    "title": "Notre vision et mission",
+    "vision": "« Être l'entreprise africaine la plus valorisée qui servira notre société, en créant 200 000 partenaires commerciaux et 25 millions d'employés d'ici 2032. »",
+    "visionLabel": "Vision de l'entreprise",
+    "mission": "« Croissance durable grâce à un service client supérieur, des partenaires et employés, des petites entreprises et fournisseurs ; innovation, qualité et engagement. »",
+    "missionLabel": "Mission de l'entreprise",
+    "values": "« Nos valeurs fondamentales sont l'innovation, la responsabilité sociale et morale, la qualité, l'excellence, le travail d'équipe et le partenariat, le tout pour servir notre société. »",
+    "valuesLabel": "Valeurs de l'entreprise"
+  }
+}

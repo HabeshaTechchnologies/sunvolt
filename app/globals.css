@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+/* In your CSS file (e.g., GapTop.css) */
+
+/* Pause animations until page is loaded */
+body:not(.page-loaded) * {
+  animation: none !important;
+  transition: none !important;
+}
+
+.seamless-scroll-container {
+  overflow: hidden; /* This hides the content outside the container */
+  position: relative; /* Set position for a stacking context */
+  white-space: nowrap; /* Prevents wrapping of items */
+  width: 100%;
+}
+
+.brand-area-h2 {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  animation: scroll 20s linear infinite; /* Adjust duration to control speed */
+  width: 200%; /* Important: The total width should be double the container to hold two rows */
+}
+
+/* Optional: pause on hover */
+.seamless-scroll-container:hover .brand-area-h2 {
+  animation-play-state: paused;
+}
+
+.scroll-row {
+  display: flex;
+  justify-content: space-around;
+  min-width: 50%; /* Each row takes up half the width of the animated container */
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%); /* Move exactly half the container's width */
+  }
+}

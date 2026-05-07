@@ -1,0 +1,239 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About Sunvolt",
+    "services": "Solutions",
+    "contact": "Contact Us"
+  },
+  "Hero": {
+    "preTitle": "Welcome To Sunvolt Djibouti",
+    "title": "Advanced Lithium Battery & Energy Storage Systems",
+    "description": "We provide LiFePO4 battery systems, energy storage solutions (ESS/BESS), and integrated power systems for residential, commercial, and industrial applications.",
+    "learnMore": "Explore Solutions",
+    "callUs": "Contact Our Team",
+    "marquee": "LiFePO4 Batteries • Energy Storage Systems • BESS Solutions"
+  },
+  "About": {
+    "preTitle": "About Sunvolt",
+    "circleText": "Sunvolt Djibouti • Energy Storage Experts •",
+    "title": "Reliable Energy Storage for Modern Power Needs",
+    "description": "Sunvolt Djibouti delivers advanced lithium iron phosphate (LiFePO4) battery solutions and energy storage systems for solar, backup power, and industrial use. Our solutions are designed for long cycle life, high safety, and efficient performance.",
+    "employees": "Technical Experts",
+    "saveWorld": "Sustainable Energy",
+    "ceoTitle": "SUNVOLT MANAGEMENT",
+    "learnMore": "Learn More"
+  },
+  "CompanyAbout": {
+    "preTitle": "Our Company",
+    "title": "Efficient Energy Storage <br />for Every Application",
+    "tab1": "Why Choose Us",
+    "tab2": "Our Mission",
+    "tab3": "Our Vision",
+    "desc1": "We deliver high-performance lithium battery and energy storage systems built with advanced LiFePO4 technology, ensuring safety, durability, and long-term reliability.",
+    "desc2": "Our mission is to provide scalable and efficient energy storage solutions that support solar systems, backup power, and industrial energy infrastructure.",
+    "desc3": "Our vision is to lead the adoption of advanced battery energy storage systems across Africa, enabling reliable, efficient, and sustainable power solutions.",
+    "check1": "LiFePO4 Long Cycle Battery Technology",
+    "check2": "Advanced Safety & Protection Systems",
+    "check3": "Scalable ESS & BESS Solutions",
+    "check4": "Reliable Performance & Support"
+  },
+  "WhyChoose": {
+    "preTitle": "Why Choose Sunvolt",
+    "title": "Engineered for Performance & Reliability",
+    "desc": "Our energy systems are built with advanced battery technology to deliver safe, efficient, and scalable power solutions.",
+    "ecoFriendly": "Clean Energy",
+    "ecoFriendlyDesc1": "Supports solar integration and reduces environmental impact.",
+    "ecoFriendlyDesc2": "Eco-friendly lithium battery technology with long lifecycle.",
+    "innovation": "Modern Technology",
+    "innovationDesc": "Built using advanced LiFePO4 and energy storage innovations.",
+    "quality": "High Reliability",
+    "qualityDesc": "Long lifespan, high efficiency, and stable performance under demanding conditions.",
+    "readMore": "Read More"
+  },
+  "Facts": {
+    "preTitle": "Our Capabilities",
+    "title": "Advanced Battery & Energy Storage Solutions",
+    "desc": "From residential systems to large-scale industrial storage, we deliver reliable power solutions.",
+    "solar": "Solar Energy Storage",
+    "ev": "Battery Energy Storage (ESS/BESS)",
+    "water": "Industrial & Backup Power Systems"
+  },
+  "Service": {
+    "preTitle": "Our Solutions",
+    "title": "Sunvolt Energy Systems",
+    "desc": "We provide lithium battery technologies and energy storage systems designed for performance, scalability, and reliability.",
+    "tabSolar": "Energy Storage Systems",
+    "tabEV": "Lithium Battery Systems",
+    "tabWater": "Commercial & Industrial BESS",
+    "tabTire": "Integrated Power Solutions",
+    "solarTitle": "Energy Storage Systems (ESS)",
+    "solarDesc1": "Our energy storage systems provide stable and efficient power for residential and commercial applications.",
+    "solarDesc2": "Designed for solar integration, backup power, and off-grid energy systems with high efficiency and reliability.",
+    "solarFeature1": "Home Energy Storage Systems",
+    "solarFeature2": "Commercial Energy Storage",
+    "solarFeature3": "Backup Power & UPS Systems",
+    "solarFeature4": "Off-Grid Solar Solutions",
+    "evTitle": "Lithium Battery Systems",
+    "evDesc1": "We offer LiFePO4 lithium battery solutions with high energy density, long cycle life, and advanced protection systems.",
+    "evDesc2": "Our batteries are used in solar systems, telecom, data centers, and industrial applications.",
+    "evFeature1": "Wall-Mounted Batteries",
+    "evFeature2": "Rack-Mounted Batteries",
+    "evFeature3": "Stackable Battery Systems",
+    "evFeature4": "High-Voltage Battery Systems",
+    "waterTitle": "Commercial & Industrial BESS",
+    "waterLeftTitle1": "Scalable",
+    "waterLeftTitle2": "Energy Storage",
+    "waterLeftTitle3": "Systems",
+    "waterDesc1": "We provide large-scale battery energy storage systems including containerized and cabinet ESS for industrial use.",
+    "waterDesc2": "Our BESS solutions support grid, solar, and hybrid systems with high capacity and fast response performance.",
+    "waterFeature1": "Containerized BESS (MWh Systems)",
+    "waterFeature2": "Cabinet ESS Solutions",
+    "waterFeature3": "Hybrid Grid & Solar Systems",
+    "waterFeature4": "Industrial Backup Power",
+    "tireTitle": "Integrated Power Systems",
+    "tireDesc1": "All-in-one energy systems combining lithium batteries, inverters, and energy management systems.",
+    "tireDesc2": "Designed for easy installation, monitoring, and scalable energy performance.",
+    "tireFeature1": "Battery + Inverter Integration",
+    "tireFeature2": "Smart Energy Monitoring",
+    "tireFeature3": "High Efficiency Conversion",
+    "tireFeature4": "Modular & Scalable Design",
+    "moreService": "More Solutions"
+  },
+  "Gallery": {
+    "preTitle": "Our Products",
+    "title": "Explore Our Lithium Batteries and Energy Storage Systems"
+  },
+  "Feedback": {
+    "preTitle1": "Sunvolt",
+    "preTitle2": " Djibouti",
+    "title": "What Clients Say",
+    "feedback1": "“Sunvolt delivered a reliable energy storage system that ensures uninterrupted power for our operations.”",
+    "feedback2": "“Their battery solutions improved efficiency and reduced downtime in our facility.”",
+    "feedback3": "“High-quality lithium batteries and professional technical support.”",
+    "name1": "Project Engineer",
+    "role1": "Industrial Client",
+    "name2": "Operations Manager",
+    "role2": "Commercial Client"
+  },
+  "CTA": {
+    "preTitle1": "Get Started",
+    "preTitle2": "With Sunvolt",
+    "title": "Upgrade your power systems with advanced energy storage",
+    "placeholderName": "Your Name",
+    "placeholderEmail": "Your Email",
+    "placeholderPhone": "Your Phone",
+    "placeholderMessage": "Tell us your project requirements",
+    "sending": "Sending...",
+    "submit": "Request Quote",
+    "success": "Message sent successfully 😊",
+    "error": "Something went wrong, please try again 😔"
+  },
+  "Blog": {
+    "preTitle": "Our Blog",
+    "title": "Energy & Technology Insights",
+    "readMore": "Read More",
+    "minRead": "7 min read"
+  },
+  "Footer": {
+    "desc": "Sunvolt Djibouti specializes in lithium battery systems and energy storage solutions for reliable and sustainable power.",
+    "usefulLinks": "Quick Links",
+    "home": "Home",
+    "aboutUs": "About",
+    "ourServices": "Solutions",
+    "blog": "News",
+    "contactUs": "Contact",
+    "callUs": "Call us",
+    "emailUs": "Email us",
+    "addressTitle": "Djibouti Office",
+    "addressSub": "Djibouti",
+    "poBox": "PO Box",
+    "ethiopia": "Djibouti",
+    "copyright": "Copyright © {year} Sunvolt Djibouti. All Rights Reserved.",
+    "developedBy": "Developed by"
+  },
+  "Breadcrumb": {
+    "home": "HOME",
+    "aboutUs": "ABOUT",
+    "blogs": "BLOGS",
+    "contactUs": "CONTACT US",
+    "services": "SERVICES"
+  },
+  "EasySteps": {
+    "preTitle1": "Sunvolt",
+    "preTitle2": "Systems",
+    "title": "Fast and Easy Steps",
+    "step1Title": "Become a Partner",
+    "step1Desc": "Join a team focused on sustainable growth and excellent service.",
+    "step2Title": "Africa's Future",
+    "step2Desc": "Help us reduce Africa's dependence on fossil fuels.",
+    "step3Title": "Innovate With Us",
+    "step3Desc": "Help drive innovation in electric vehicles and charging stations.",
+    "step4Title": "Visionary Company",
+    "step4Desc": "Contribute to our market expansion."
+  },
+  "AboutContact": {
+    "callTitle": "Call for Service",
+    "callDesc": "Call 24 hours for any problem",
+    "mailTitle": "Write anytime",
+    "mailDesc": "Write 24 hours for any problem"
+  },
+  "BlogList": {
+    "readDetails": "Read Details"
+  },
+  "SingleBlog": {
+    "blogNotFound": "Blog post not found",
+    "recentPosts": "Recent Posts",
+    "by": "by"
+  },
+  "ContactInfo": {
+    "getEmail": "Get Email",
+    "makeCall": "Make Call",
+    "visitUs": "Visit Us",
+    "address": "GERJI, SELAM BUILDING, 5th and 6th FLOOR"
+  },
+  "ContactForm": {
+    "preTitle1": "Feel Free",
+    "preTitle2": "To Contact Us",
+    "title": "Let's Get In Touch",
+    "placeholderName": "Your Name",
+    "placeholderEmail": "Email Address",
+    "placeholderPhone": "Phone Number",
+    "placeholderMessage": "Type your message",
+    "sending": "Sending...",
+    "submit": "Send Message",
+    "success": "Email sent successfully 😊",
+    "error": "Something went wrong, please try again 😔"
+  },
+  "ServiceCard": {
+    "evTitle": "Electric Vehicle Assembly",
+    "evDesc": "Explore our EV, bus, and scooter assembly to help lower dependence on fossil fuels.",
+    "waterTitle": "Clean Water Systems",
+    "waterDesc": "Discover our innovative water purification systems providing affordable, pure drinking water for households.",
+    "renewableTitle": "Renewable Energy Solutions",
+    "renewableDesc": "Learn how we supply sustainable power through solar, wind, and geothermal power plants."
+  },
+  "ClientReview": {
+    "preTitle1": "Our",
+    "preTitle2": "Client Reviews",
+    "title": "Produce your own clean energy <br />Save the environment",
+    "card1Title": "Our Business Concept",
+    "card1Desc": "Learn about our commitment to providing innovative, high-quality, and socially responsible products and services.",
+    "card2Title": "Future Expansion",
+    "card2Desc": "Discover our plans to expand into new markets across Ethiopia, Djibouti, Uganda, and other African countries.",
+    "card3Title": "Our Core Values",
+    "card3Desc": "Explore our core values of innovation, social responsibility, quality, and excellence.",
+    "card4Title": "Go Green, Save the Earth",
+    "card4Desc": "We are committed to environmental protection by reducing waste and providing eco-friendly products and solutions."
+  },
+  "CustomersSays": {
+    "preTitle1": "Sunvolt",
+    "preTitle2": "Solutions",
+    "title": "Our Vision and Mission",
+    "vision": "“To be the most valued African company that will serve our society, creating 200,000 business partners and 25 million employees by 2032.”",
+    "visionLabel": "Company Vision",
+    "mission": "“Sustainable growth through superior customer service, partners and employees, small businesses and suppliers; innovation, quality, and commitment.”",
+    "missionLabel": "Company Mission",
+    "values": "“Our core values are Innovation, Social and Moral Responsibility, Quality, Excellence, Teamwork, and Partnership, all to serve our society.”",
+    "valuesLabel": "Company Values"
+  }
+}
