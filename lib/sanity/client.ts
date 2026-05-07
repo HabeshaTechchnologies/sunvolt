@@ -14,9 +14,3 @@ export function getClient(): SanityClient {
   return _client;
 }
 
-// Backwards-compatible named export (lazy proxy)
-export const client = new Proxy({} as SanityClient, {
-  get(_target, prop) {
-    return (getClient() as any)[prop];
-  },
-});
