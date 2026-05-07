@@ -1,6 +1,8 @@
 import SingleBlog from "@/components/blog/SingleBlog";
 import Breadcrumb from "@/components/Breadcrumb";
 
+export const dynamic = 'force-dynamic';
+
 type Props = {
   params: Promise<{ slug: string }>; // In Next 15/16, params is a Promise
 };

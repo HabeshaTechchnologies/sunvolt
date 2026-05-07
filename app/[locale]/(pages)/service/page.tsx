@@ -5,6 +5,8 @@ import CustomersSays from '@/components/service/CustomersSays';
 import ServiceCard from '@/components/service/ServiceCard';
 import React from 'react'
 
+export const dynamic = 'force-dynamic';
+
 type Props = {}
 
 const page = (props: Props) => {

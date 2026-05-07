@@ -15,6 +15,8 @@ import PageLoader from "@/components/PageLoader";
 import Script from 'next/script';
 import React from 'react'
 
+export const dynamic = 'force-dynamic';
+
 const page = () => {
   return (
     <div>

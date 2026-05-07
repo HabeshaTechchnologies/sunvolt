@@ -1,4 +1,3 @@
-export const dynamic = "force-dynamic";
 import React from "react";
 import { getProducts } from "@/lib/sanity/fetchQueries";
 import { urlForImage } from "@/lib/sanity/image";

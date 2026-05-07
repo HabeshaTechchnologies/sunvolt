@@ -6,8 +6,6 @@ import { getTranslations, getLocale } from "next-intl/server";
 
 type Props = { params: { slug: string } };
 
-export const dynamic = 'force-dynamic';
-
 async function SingleBlog({ params }: Props) {
   const slug = params.slug;
   const blog: any = await getSingleBlog(slug);
