@@ -10,7 +10,7 @@ const Page = async ({ params }: Props) => {
 
   return (
     <div>
-      <Breadcrumb name="BLOG DETAILS" url="blog" />
+      <Breadcrumb nameKey="blogDetails" url="blog" />
       <SingleBlog params={{ slug }} />
     </div>
   );
